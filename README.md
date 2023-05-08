@@ -46,6 +46,11 @@ The playlist view shows all the songs in a playlist, allows the user to add new 
 
 The search page allows the user to search for songs or artists, and also allows them to choose a pre-made playlist by mood/need.
 
+
+The backend repository for this project can be found at: 
+https://github.com/CrazyDiamond24/muzikayBackend
+
+
 ## Installation
 
 To run the app locally, clone the repository and run the following commands:
