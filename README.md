@@ -5,7 +5,7 @@
   <tr>
     <td align="center">
 
-      🟢Vue.js | ⚡Vite | 🏪Vuex | 🔴SCSS | 🟨ES6 | 🟩Node.js | 🚂Express.js | 🌱MongoDB  | 📦NPM | 🔄Git 
+      🟢Vue.js | ⚡Vite | 🏪Vuex | 🔴SCSS | 🟨ES6 | 🟩Node.js | 🚂Express.js | 🌱MongoDB  | 📦NPM
   </tr>
 
 
