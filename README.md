@@ -2,6 +2,12 @@
   <img src="https://cdn.freebiesupply.com/logos/large/2x/spotify-2-logo-png-transparent.png" alt="Spotify Logo" width="50" height="50" style="vertical-align: middle;"> Muzikay
 </h1>
 
+  <tr>
+    <td align="center">
+
+      🟢Vue.js | ⚡Vite | 🏪Vuex | 🔴SCSS | 💻HTML5 | 🖌️CSS3 | 🟨ES6 | 🟩Node.js | 🚂Express.js | 🌱MongoDB  | 📦NPM | 🔄Git 
+  </tr>
+
 
 ## Demo
 
